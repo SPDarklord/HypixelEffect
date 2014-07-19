@@ -1,0 +1,9 @@
+name: HypixelEffect
+version: 2.0
+main: com.coco_gigpn.fr.HypixelEffect
+description: Extra effects for you
+author: coco_gigpn
+commands:
+  hypixeleffect:
+    aliases: [he]
+    description: Main command
